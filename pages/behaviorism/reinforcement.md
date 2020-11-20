@@ -1,5 +1,7 @@
 # Positive and Negative reinforcement
 [Home](../../index.md) | [Skinner](./skinner.md)
+## Operant Conditioning
+[Reinforcement](./reinforcement.md) | [Punishment](./punishment.md) <br> <br>
 ## Implementation
 <img 
 height="400px"
