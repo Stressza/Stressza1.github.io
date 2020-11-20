@@ -1,7 +1,7 @@
 # Skinner Implementation
 [Home](../../index.md) | [Behaviorism](../behaviorism.md)
 ## Operant Conditioning
-[Reinforcement](./reinforcement.md) | [Punishment](./punishment.md) <br>
+[Reinforcement](./reinforcement.md) | [Punishment](./punishment.md) <br> <br>
 <img 
 height="400px"
 src="https://scontent.fmnl4-3.fna.fbcdn.net/v/t1.15752-9/126815575_3484344524953477_4520532103318608646_n.png?_nc_cat=102&ccb=2&_nc_sid=ae9488&_nc_eui2=AeH92fO8BfFHUTRwIaxYSFrZRk5mQcj7Hw9GTmZByPsfD-3PL8ZRuM0jA37dvYMDX80bGzMLJRWKUVFhMzpnTrCk&_nc_ohc=jaLpXK48tn4AX_D-2co&_nc_ht=scontent.fmnl4-3.fna&oh=437cd943e42e71d14728341df9451a5f&oe=5FDAE083"/>
