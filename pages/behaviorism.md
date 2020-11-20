@@ -1,5 +1,5 @@
 # Behaviorism
-[Home](../index.md)
+[Home](../index.md) | [Cognitivism](./cognitivism.md)
 ## Behaviorism Learning Theories Implementations
 [Pavlov](./behaviorism/pavlov.md) | [Skinner](./behaviorism/skinner.md)
 ## What is behaviorism in learning?
