@@ -1,5 +1,5 @@
 # Cognitivism
-[Home](../index.md)
+[Home](../index.md) | [Behaviorism](./behaviorism.md)
 ## Cognitivism Implementations
 [Piaget](./cognitivism/piaget.md) | [Bloom](./cognitivism/bloom.md) | [Bruner](./cognitivism/bruner.md) | [Vygotsky](./cognitivism/vygotsky.md) | [Ausubel](./cognitivism/ausubel.md)
 ## What is cognitivism in learning?
