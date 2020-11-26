@@ -1,4 +1,4 @@
-<head>
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y76JJYL5JK"></script>
 <script>
@@ -8,7 +8,7 @@
 
   gtag('config', 'G-Y76JJYL5JK');
 </script>
-</head>
+
 # Stressza
 [About the Team](./pages/about_us.md)
 # Features of the App
